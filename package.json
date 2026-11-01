@@ -1,0 +1,5 @@
+{
+  "name": "bench-trex-app",
+  "private": true,
+  "scripts": { "start": "node src/server.js" }
+}
